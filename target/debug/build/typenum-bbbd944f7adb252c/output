@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/calogerocimino/dioxus-toast-1/target/debug/build/typenum-bbbd944f7adb252c/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/calogerocimino/dioxus-toast-1/target/debug/build/typenum-bbbd944f7adb252c/out/op.rs
