@@ -1,0 +1,11 @@
+/Users/calogerocimino/dioxus-toast-1/target/debug/deps/proc_macro2-4a1b1072d218ab2e.rmeta: /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/lib.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/marker.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/parse.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/rcvec.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/detection.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/fallback.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/wrapper.rs
+
+/Users/calogerocimino/dioxus-toast-1/target/debug/deps/proc_macro2-4a1b1072d218ab2e.d: /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/lib.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/marker.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/parse.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/rcvec.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/detection.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/fallback.rs /Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/wrapper.rs
+
+/Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/lib.rs:
+/Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/marker.rs:
+/Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/parse.rs:
+/Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/rcvec.rs:
+/Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/detection.rs:
+/Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/fallback.rs:
+/Users/calogerocimino/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.43/src/wrapper.rs:

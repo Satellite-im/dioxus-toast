@@ -17,7 +17,7 @@ web = ["gloo-timers", "dioxus-web"]
 
 [dependencies]
 chrono = { version = "0.4.19", features = ["wasmbind"] }
-dioxus = { git = "https://github.com/DioxusLabs/dioxus" }
+dioxus = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
 dioxus-desktop = { git = "https://github.com/DioxusLabs/dioxus", branch = "master", optional = true  }
 dioxus-web = { git = "https://github.com/DioxusLabs/dioxus", branch = "master", optional = true  }
 fermi = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
