@@ -20,6 +20,7 @@ chrono = { version = "0.4.19", features = ["wasmbind"] }
 dioxus = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
 dioxus-desktop = { git = "https://github.com/DioxusLabs/dioxus", branch = "master", optional = true  }
 dioxus-web = { git = "https://github.com/DioxusLabs/dioxus", branch = "master", optional = true  }
+dioxus-core = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
 fermi = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
 tokio = { version = "1.17.0", features = ["time"], optional = true }
 gloo-timers = { version = "0.2.3", features = ["futures"], optional = true }

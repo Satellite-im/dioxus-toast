@@ -488,6 +488,7 @@ version = "0.1.5"
 dependencies = [
  "chrono",
  "dioxus",
+ "dioxus-core",
  "dioxus-desktop",
  "dioxus-web",
  "fermi",

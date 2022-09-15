@@ -6,6 +6,7 @@ use std::collections::BTreeMap;
 
 use dioxus::prelude::*;
 use fermi::UseAtomRef;
+use dioxus_core::Scope;
 
 #[derive(Debug, Clone)]
 struct ToastManagerItem {
