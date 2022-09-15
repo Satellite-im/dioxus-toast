@@ -6,7 +6,6 @@ use std::collections::BTreeMap;
 
 use dioxus::prelude::*;
 use fermi::UseAtomRef;
-use dioxus_core::Scope;
 
 #[derive(Debug, Clone)]
 struct ToastManagerItem {
@@ -142,7 +141,7 @@ pub struct ToastFrameProps<'a> {
     maximum: u8,
 }
 
-pub fn ToastFrame<'a>(cx: Scope<'a, ToastFrameProps<'a>>) -> Element {
+pub fn ToastFrame<'a>(cx: dioxus::core::Scope<'a, ToastFrameProps<'a>>) -> Element {
     // println!("{:?}", manager.read());
 
     let manager = cx.props.manager;
