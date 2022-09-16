@@ -237,7 +237,7 @@ pub fn ToastFrame<'a>(cx: dioxus::core::Scope<'a, ToastFrameProps<'a>>) -> Eleme
                 if toast_manager.read().list.is_empty() {
                     toast_manager.write().id_index = 0;
                 }
-                //time_sleep(100).await;
+                time_sleep(100).await;
             }
         }
     });
