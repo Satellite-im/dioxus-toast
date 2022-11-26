@@ -17,10 +17,10 @@ web = ["gloo-timers", "dioxus-web"]
 
 [dependencies]
 chrono = { version = "0.4.19", features = ["wasmbind"] }
-dioxus = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
-dioxus-desktop = { git = "https://github.com/DioxusLabs/dioxus", branch = "master", optional = true  }
-dioxus-web = { git = "https://github.com/DioxusLabs/dioxus", branch = "master", optional = true  }
-dioxus-core = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
-fermi = { git = "https://github.com/DioxusLabs/dioxus", branch = "master" }
+dioxus = { git = "https://github.com/DioxusLabs/dioxus", rev="1e99e35572f6cf4f3ae09e1d0290b6e43838518d"  }
+dioxus-desktop = { git = "https://github.com/DioxusLabs/dioxus", rev="1e99e35572f6cf4f3ae09e1d0290b6e43838518d", optional = true  }
+dioxus-web = { git = "https://github.com/DioxusLabs/dioxus", rev="1e99e35572f6cf4f3ae09e1d0290b6e43838518d", optional = true  }
+dioxus-core = { git = "https://github.com/DioxusLabs/dioxus", rev="1e99e35572f6cf4f3ae09e1d0290b6e43838518d"  }
+fermi = { git = "https://github.com/DioxusLabs/dioxus", rev="1e99e35572f6cf4f3ae09e1d0290b6e43838518d"  }
 tokio = { version = "1.17.0", features = ["time"], optional = true }
 gloo-timers = { version = "0.2.3", features = ["futures"], optional = true }
